@@ -1,4 +1,4 @@
-name = "wvm-archiver"
+name = "avalanche-wvm-archiver"
 
 assets = [
     ".env"

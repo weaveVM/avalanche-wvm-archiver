@@ -102,7 +102,7 @@ The WeaveVM Archiver node operates as follows:
 
 As mentioned, PlanetScale is used for cloud indexing, which allows a WeaveVM Archiver node to expose its WeaveVM data as a RESTful API.
 
-#### Node instance endpoint: https://metis.wvm.network
+#### Node instance endpoint: https://avalanche.wvm.network
 
 ### WeaveVM Archiver node instance info
 
