@@ -3,6 +3,6 @@
 .env
 
 Secrets*.toml.shuttle*
+Secrets*.toml.shuttle*
 Secrets*.toml
-.shuttle
 .shuttle*
