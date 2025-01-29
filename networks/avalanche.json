@@ -2,7 +2,7 @@
     "name": "Avalanche c-chain",
     "network_chain_id": 43114,
     "wvm_chain_id": 9496,
-    "network_rpc": "https://avalanche.drpc.org",
+    "network_rpc": "https://api.avax.network/ext/bc/C/rpc",
     "wvm_rpc": "https://testnet-rpc.wvm.dev",
     "block_time": 2.0,
     "start_block": 53998331,
